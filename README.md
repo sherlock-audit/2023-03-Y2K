@@ -74,4 +74,23 @@ A: [ACCEPTABLE/NOT ACCEPTABLE]
 
 # Audit scope
 
+
+[Earthquake @ 736b2e1e51bef6daa6a5ecd1decb7d156316d795](https://github.com/Y2K-Finance/Earthquake/tree/736b2e1e51bef6daa6a5ecd1decb7d156316d795)
+- [Earthquake/src/v2/Carousel/Carousel.sol](Earthquake/src/v2/Carousel/Carousel.sol)
+- [Earthquake/src/v2/Carousel/CarouselFactory.sol](Earthquake/src/v2/Carousel/CarouselFactory.sol)
+- [Earthquake/src/v2/Controllers/ControllerPeggedAssetV2.sol](Earthquake/src/v2/Controllers/ControllerPeggedAssetV2.sol)
+- [Earthquake/src/v2/SemiFungibleVault.sol](Earthquake/src/v2/SemiFungibleVault.sol)
+- [Earthquake/src/v2/TimeLock.sol](Earthquake/src/v2/TimeLock.sol)
+- [Earthquake/src/v2/VaultFactoryV2.sol](Earthquake/src/v2/VaultFactoryV2.sol)
+- [Earthquake/src/v2/VaultV2.sol](Earthquake/src/v2/VaultV2.sol)
+- [Earthquake/src/v2/interfaces/ICarousel.sol](Earthquake/src/v2/interfaces/ICarousel.sol)
+- [Earthquake/src/v2/interfaces/ISemiFungibleVault.sol](Earthquake/src/v2/interfaces/ISemiFungibleVault.sol)
+- [Earthquake/src/v2/interfaces/IVaultFactoryV2.sol](Earthquake/src/v2/interfaces/IVaultFactoryV2.sol)
+- [Earthquake/src/v2/interfaces/IVaultV2.sol](Earthquake/src/v2/interfaces/IVaultV2.sol)
+- [Earthquake/src/v2/interfaces/IWETH.sol](Earthquake/src/v2/interfaces/IWETH.sol)
+- [Earthquake/src/v2/libraries/CarouselCreator.sol](Earthquake/src/v2/libraries/CarouselCreator.sol)
+- [Earthquake/src/v2/libraries/VaultV2Creator.sol](Earthquake/src/v2/libraries/VaultV2Creator.sol)
+
+
+
 # About [project name]
