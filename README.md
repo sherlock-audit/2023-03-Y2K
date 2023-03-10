@@ -7,7 +7,7 @@
 
 # Resources
 
-- [[Notion page with flowchart and videos]]([url](https://y2kfinance.notion.site/Earthquake-V2-Documentation-9766c278d4a14c619ba92017a69853e4))
+- [Notion page with flowchart and videos]([url](https://y2kfinance.notion.site/Earthquake-V2-Documentation-9766c278d4a14c619ba92017a69853e4))
 - [[V1 Docs]](https://y2k-finance.gitbook.io/y2k-finance/products/earthquake/contracts-and-audits)
 
 # On-chain context
