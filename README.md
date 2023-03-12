@@ -14,7 +14,7 @@
 
 ```
 DEPLOYMENT: [Arbitrum]
-ERC20: [WETH, USDC]
+ERC20: [WETH, USDC, Y2K]
 ERC1155: [Earthquake VaultV2]
 FEE-ON-TRANSFER: [none]
 REBASING TOKENS: [none]
@@ -28,7 +28,7 @@ Please answer the following questions to provide more context:
 1) Admin, Timelocker. Admin is EOA assinged on deployment, Timelock is a contract with Msig as owner. 
 2) Admin can configure new markets and epochs on those markets, Timelock can make cirital changes like changing the oracle or whitelisitng controllers.
 3) For convinience the Admin is able to whitelist the first controller, Also the admin is configuring the oracle, however oracles are public and will be linked on mint page on the Front end. 
-4) No rugging 
+4) Admin Should not be able to steal user funds 
 
 A: 
 
@@ -76,6 +76,6 @@ A: [NOT ACCEPTABLE]
 
 
 
-# About [Y2K Finance]
+# About [Y2K Finance](https://www.y2k.finance/) 
 
 Y2K Finance is a suite of structured products designed for exotic peg derivatives, that will allow market participants the ability to robustly hedge or speculate on the risk of a particular pegged asset (or basket of pegged assets), deviating from their ‘fair implied market value’.
